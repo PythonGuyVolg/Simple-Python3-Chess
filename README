@@ -15,8 +15,8 @@ Contains:
     * TkInter GUI
 
 Requirements:
-    * Python 2.5+
-    * TkInter
+    * Python 3.*
+    * tkinter
     * PIL
 
 To install the dependancies on debian/ubuntu run:
